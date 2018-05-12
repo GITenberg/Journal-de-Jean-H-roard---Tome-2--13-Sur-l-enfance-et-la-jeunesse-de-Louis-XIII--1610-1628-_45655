@@ -1,0 +1,33 @@
+_repo: Journal-de-Jean-H-roard---Tome-2--13-Sur-l-enfance-et-la-jeunesse-de-Louis-XIII--1610-1628-_45655
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Héroard, Jean
+    aliases:
+    - Héroard, Jean
+    - Heroard, Jean
+    birthdate: 1551
+    deathdate: 1628
+    gutenberg_agent_id: '43041'
+    url: http://www.gutenberg.org/2009/agents/43041
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45655'
+  lccn: 02015780
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643'
+title: "Journal de Jean Héroard - Tome 2\r\nSur l'enfance et la jeunesse de Louis\
+  \ XIII (1610-1628)"
+url: http://www.gutenberg.org/ebooks/45655
