@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43041'
     url: http://www.gutenberg.org/2009/agents/43041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45655#Journal-de-Jean-H-roard---Tome-2--13-Sur-l-enfance-et-la-jeunesse-de-Louis-XIII--1610-1628-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-05-15'
 gutenberg_type: Text
